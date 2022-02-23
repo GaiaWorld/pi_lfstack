@@ -1,0 +1,7 @@
+[package]
+name = "pi_lfstack"
+version = "0.1.0"
+authors = ["vmos <vmos@fairblock.io>"]
+
+[dependencies]
+crossbeam-channel = "0.3"
